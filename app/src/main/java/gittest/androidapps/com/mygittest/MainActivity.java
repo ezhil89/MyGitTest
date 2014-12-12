@@ -13,7 +13,7 @@ public class MainActivity extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
-    // now testing the check in feature12..
+    // now testing the check in feature123..
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
